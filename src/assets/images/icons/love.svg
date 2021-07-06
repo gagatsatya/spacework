@@ -1,0 +1,25 @@
+<svg width="66" height="60" viewBox="0 0 66 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d)">
+<path d="M2 11.1547V37.2145C3.66391 43.968 9.9525 47.0429 12.8888 47.7362H17.538C23.4106 47.7362 23.4106 49.3267 28.7938 55.077C33.1004 59.6772 37.4396 54.9547 39.0709 52.0184C40.0497 50.591 42.3498 47.7362 43.72 47.7362C57.3249 49.498 62.2759 41.4558 63.0507 37.2145C63.1731 32.5245 63.3444 20.9914 63.0507 12.3782C62.7571 3.76502 55.0982 1.20391 51.3055 1H14.8463C5.74379 2.2724 2.48938 8.29999 2 11.1547Z" fill="#FB5E6E"/>
+</g>
+<g filter="url(#filter1_f)">
+<path d="M33.42 18.0019C28.3702 10.5704 18.1497 14.6188 18.1497 22.7143C18.1497 28.7933 32.1615 38.3026 33.42 39.5391C34.6871 38.3026 48.0021 28.7933 48.0021 22.7143C48.0021 14.6802 38.4792 10.5704 33.42 18.0019Z" fill="#D33A47"/>
+</g>
+<path d="M33.42 16.0444C28.3702 8.61287 18.1497 12.6613 18.1497 20.7568C18.1497 26.8358 32.1615 36.3451 33.42 37.5815C34.6871 36.3451 48.0021 26.8358 48.0021 20.7568C48.0021 12.7227 38.4792 8.61287 33.42 16.0444Z" fill="white"/>
+<defs>
+<filter id="filter0_d" x="0" y="0" width="65.2129" height="60" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="1"/>
+<feGaussianBlur stdDeviation="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.854167 0 0 0 0 0.0939584 0 0 0 0 0.161319 0 0 0 1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter1_f" x="11.1497" y="7.09106" width="43.8525" height="39.448" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="3.5" result="effect1_foregroundBlur"/>
+</filter>
+</defs>
+</svg>
