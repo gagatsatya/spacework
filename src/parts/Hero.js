@@ -8,7 +8,7 @@ import User1 from "assets/images/icons/user1.svg";
 import User2 from "assets/images/icons/user2.svg";
 import User3 from "assets/images/icons/user3.svg";
 import User4 from "assets/images/icons/user4.svg";
-import Elips from "assets/images/ellipseee.jpg";
+import Elips from "assets/images/ellipse.png";
 import Box from "assets/images/box.png";
 import Banner from "assets/images/banner.png";
 
